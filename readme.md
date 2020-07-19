@@ -1,4 +1,4 @@
-# Example of Node.js REST API using Typescript + Express
+# Example of Node.js REST API using TypeScript + Express
 
 This little project uses:
 
