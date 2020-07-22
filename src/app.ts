@@ -1,5 +1,5 @@
 import express, { json, Request, Response } from "express";
-import { Dog } from "./classes/dog.class";
+import { Dog } from "./model/dog.class";
 
 import { dogWeightMessage } from "./messages";
 

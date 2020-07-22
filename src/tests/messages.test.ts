@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { Dog } from "../classes/dog.class";
+import { Dog } from "../model/dog.class";
 import { dogWeightMessage } from "../messages";
 
 
