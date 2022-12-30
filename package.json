@@ -17,7 +17,7 @@
     "@types/express": "^4.17.7",
     "@types/mocha": "^8.0.0",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "nyc": "^15.1.0",
     "ts-node-dev": "^1.0.0-pre.51",
     "typescript": "^3.9.6"
